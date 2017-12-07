@@ -24,6 +24,7 @@ add_executable(rtl_433
 	pulse_detect.c
 	rtl_433.c
 	util.c
+	convenience.c
 	devices/acurite.c
 	devices/alecto.c
 	devices/ambient_weather.c
