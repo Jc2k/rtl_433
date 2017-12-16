@@ -74,6 +74,7 @@
 		DECL(kerui) \
 		DECL(fineoffset_wh1050) \
 		DECL(honeywell) \
+		DECL(honeywell_activlink) \
 		DECL(maverick_et73x) \
 		DECL(rftech) \
 		DECL(lacrosse_TX141TH_Bv2) \

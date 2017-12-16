@@ -90,6 +90,7 @@ add_executable(rtl_433
 	devices/kerui.c
 	devices/fineoffset_wh1050.c
 	devices/honeywell.c
+	devices/honeywell_activlink.c
 	devices/maverick_et73x.c
 	devices/rftech.c
 	devices/lacrosse_tx35.c
